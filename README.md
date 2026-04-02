@@ -9,11 +9,32 @@
 
 > Projeto de aprendizado de IA/ML que usa dados históricos dos Santos Católicos para praticar as principais técnicas de Ciência de Dados — desde coleta até Machine Learning e NLP.
 
-**[🌐 Ver apresentação online →](https://SEU_USUARIO.github.io/santos-ai-project/)**
+---
+
+## 📊 Visualizações
+
+<table>
+  <tr>
+    <td><img src="outputs/figures/03_top20_paises.png" width="100%"/><br><sub>Top 20 países com mais santos</sub></td>
+    <td><img src="outputs/figures/03_series_temporal.png" width="100%"/><br><sub>Santos canonizados por século</sub></td>
+  </tr>
+  <tr>
+    <td><img src="outputs/figures/03_heatmap_seculo_continente.png" width="100%"/><br><sub>Heatmap: século × continente</sub></td>
+    <td><img src="outputs/figures/03_stacked_categorias.png" width="100%"/><br><sub>Mártires vs Confessores vs Doutores</sub></td>
+  </tr>
+  <tr>
+    <td><img src="outputs/figures/04_pca_clusters.png" width="100%"/><br><sub>Clustering PCA dos santos</sub></td>
+    <td><img src="outputs/figures/05_shap_summary.png" width="100%"/><br><sub>SHAP: importância das variáveis (Random Forest)</sub></td>
+  </tr>
+  <tr>
+    <td><img src="outputs/figures/06_wordclouds.png" width="100%"/><br><sub>Word Clouds por categoria</sub></td>
+    <td><img src="outputs/figures/05_roc_pr_curves.png" width="100%"/><br><sub>Curvas ROC e Precision-Recall</sub></td>
+  </tr>
+</table>
 
 ---
 
-## 📊 O que foi construído
+## 📓 Notebooks
 
 | # | Notebook | Técnicas |
 |---|----------|----------|
@@ -38,61 +59,42 @@
 
 ## 🚀 Como rodar localmente
 
-### Pré-requisitos
-
 ```bash
-# Anaconda (recomendado) ou Python 3.11+
-conda create -n santos python=3.11
-conda activate santos
+# 1. Instalar dependências (Anaconda recomendado)
 pip install -r requirements.txt
-```
 
-### Notebooks (análise completa)
-
-```bash
+# 2. Abrir notebooks
 jupyter lab
-# Abra a pasta notebooks/ e rode em ordem: 00 → 06
-```
 
-### App interativo (chat + gráficos animados)
-
-```bash
+# 3. App interativo com chat + gráficos animados
 streamlit run app.py
-# Abre em http://localhost:8501
-```
 
-### Regenerar apresentação HTML
-
-```bash
+# 4. Regenerar apresentação HTML
 python generate_html.py
-# Atualiza apresentacao/index.html com gráficos animados
 ```
 
 ---
 
-## 🗂 Estrutura do projeto
+## 🗂 Estrutura
 
 ```
 santos_ai_project/
-│
-├── notebooks/          # 7 notebooks Jupyter (00 a 06)
+├── notebooks/          # 7 notebooks Jupyter (00 → 06)
 ├── data/
 │   ├── raw/            # Dados brutos coletados
 │   └── processed/      # saints_clean.csv — dataset principal
 ├── outputs/
-│   ├── figures/        # 13 gráficos estáticos exportados
-│   └── models/         # Modelos ML treinados (.pkl)
-├── apresentacao/       # Apresentação HTML estática
-│   ├── index.html      # Página principal (GitHub Pages)
-│   └── data.json       # Metadados do projeto
-├── app.py              # App Streamlit
+│   ├── figures/        # 13 gráficos exportados
+│   └── models/         # Modelos ML treinados
+├── apresentacao/       # Apresentação HTML com gráficos animados
+├── app.py              # App Streamlit (chat + explorador)
 ├── generate_html.py    # Injeta gráficos animados no HTML
 └── requirements.txt
 ```
 
 ---
 
-## 🛠 Stack tecnológica
+## 🛠 Stack
 
 | Área | Bibliotecas |
 |------|-------------|
@@ -102,16 +104,6 @@ santos_ai_project/
 | NLP | nltk, textblob, wordcloud |
 | Coleta de dados | requests, beautifulsoup4, wikipedia-api |
 | App interativo | streamlit |
-
----
-
-## 📸 Prévia
-
-A apresentação inclui gráficos animados interativos construídos com Plotly:
-- **Mapa coroplético** — distribuição mundial dos santos
-- **Barras animadas por século** — evolução de mártires, confessores e doutores
-- **Scatter cumulativo** — anos até canonização ao longo dos séculos
-- **Treemap, Violin, Polar Chart** e muito mais
 
 ---
 
