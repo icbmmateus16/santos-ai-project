@@ -211,6 +211,6 @@ python generate_html.py
 
 <div align="center">
 
-*Projeto de estudo pessoal — Mateu · 2025*
+*Projeto de estudo pessoal — Mateus · 2025*
 
 </div>
