@@ -1,0 +1,9 @@
+death_year
+century_of_death
+years_to_canonization
+num_patron_topics
+feast_month
+is_doctor
+is_virgin
+continent_enc
+gender_enc

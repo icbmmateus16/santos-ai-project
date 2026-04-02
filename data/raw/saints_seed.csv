@@ -1,0 +1,78 @@
+name,death_year,canonization_year,origin_country,category,religious_order,feast_month,feast_day,gender,patron_topics,canonizing_pope
+Peter the Apostle,68,1000,Palestine,Martyr,None,6,29,M,"fishermen, papacy",Pre-Congregation
+Paul the Apostle,67,1000,Turkey,Martyr,None,6,29,M,"missionaries, theologians",Pre-Congregation
+Stephen,36,1000,Palestine,Martyr,None,12,26,M,"deacons, stonemasons",Pre-Congregation
+Mary Magdalene,63,1000,Palestine,Confessor,None,7,22,F,"penitents, perfumers",Pre-Congregation
+John the Apostle,100,1000,Palestine,Confessor,None,12,27,M,"theologians, booksellers",Pre-Congregation
+Ignatius of Antioch,108,1000,Syria,Martyr,None,10,17,M,"churches of the East",Pre-Congregation
+Polycarp of Smyrna,155,1000,Turkey,Martyr,None,2,23,M,"earache sufferers",Pre-Congregation
+Justin Martyr,165,1000,Palestine,Martyr,None,6,1,M,philosophers,Pre-Congregation
+Irenaeus of Lyon,202,1000,Turkey,Martyr,None,6,28,M,"apologists, theologians",Pre-Congregation
+Perpetua,203,1000,Tunisia,Martyr,None,3,7,F,martyrs,Pre-Congregation
+Felicity,203,1000,Tunisia,Martyr,None,3,7,F,martyrs,Pre-Congregation
+Anthony of Egypt,356,1000,Egypt,Confessor,None,1,17,M,"monks, skin diseases",Pre-Congregation
+Nicholas of Myra,343,1000,Turkey,Confessor,None,12,6,M,"children, sailors, merchants",Pre-Congregation
+Ambrose of Milan,397,1000,Italy,Doctor,None,12,7,M,"beekeepers, learning",Pre-Congregation
+Augustine of Hippo,430,1000,Algeria,Doctor,None,8,28,M,"theologians, brewers",Pre-Congregation
+Jerome,420,1000,Croatia,Doctor,None,9,30,M,"librarians, scholars",Pre-Congregation
+Martin of Tours,397,1000,Hungary,Confessor,None,11,11,M,"soldiers, beggars, France",Pre-Congregation
+Patrick of Ireland,461,1000,Britain,Confessor,None,3,17,M,"Ireland, engineers",Pre-Congregation
+Leo the Great,461,1000,Italy,Doctor,None,11,10,M,"musicians, popes",Pre-Congregation
+Benedict of Nursia,547,1000,Italy,Confessor,Benedictine,7,11,M,"monks, Europe, students",Honorius III (equivalent)
+Gregory the Great,604,1000,Italy,Doctor,Benedictine,9,3,M,"musicians, teachers, popes",Boniface IV (equivalent)
+Isidore of Seville,636,1000,Spain,Doctor,None,4,4,M,"internet, students",Innocent XIII
+Bede the Venerable,735,1000,England,Doctor,Benedictine,5,25,M,"historians, lectors",Leo XIII
+Boniface,754,1000,England,Martyr,Benedictine,6,5,M,"Germany, brewers",Pre-Congregation
+John of Damascus,749,1000,Syria,Doctor,None,12,4,M,"icon painters, pharmacists",Leo XIII
+Cyril,869,1000,Greece,Confessor,None,2,14,M,"Slavic peoples, ecumenism",John Paul II
+Methodius,885,1000,Greece,Confessor,None,2,14,M,"Slavic peoples, Europe",John Paul II
+Anselm of Canterbury,1109,1000,Italy,Doctor,Benedictine,4,21,M,"theologians",Clement XI
+Bernard of Clairvaux,1153,1000,France,Doctor,Cistercian,8,20,M,"beekeepers, candle makers, Gibraltar",Alexander III
+Hildegard of Bingen,1179,2012,Germany,Doctor,Benedictine,9,17,F,"musicians, writers, natural sciences",Benedict XVI
+Francis of Assisi,1226,1228,Italy,Confessor,Franciscan,10,4,M,"animals, ecology, Italy",Gregory IX
+Clare of Assisi,1253,1255,Italy,Confessor,Franciscan,8,11,F,"television, eye diseases, laundry",Alexander IV
+Anthony of Padua,1231,1232,Portugal,Doctor,Franciscan,6,13,M,"lost items, poor, travelers",Gregory IX
+Dominic de Guzman,1221,1234,Spain,Confessor,Dominican,8,8,M,"astronomers, Dominican Republic",Gregory IX
+Thomas Aquinas,1274,1323,Italy,Doctor,Dominican,1,28,M,"students, schools, theologians",John XXII
+Bonaventure,1274,1482,Italy,Doctor,Franciscan,7,15,M,"bowel disorders",Sixtus IV
+Albert the Great,1280,1931,Germany,Doctor,Dominican,11,15,M,"scientists, medical technicians",Pius XI
+Louis IX of France,1270,1297,France,Confessor,None,8,25,M,"French monarchy, crusaders",Boniface VIII
+Elizabeth of Hungary,1231,1235,Hungary,Confessor,Franciscan,11,17,F,"bakers, beggars, charity workers",Gregory IX
+Thomas Becket,1170,1173,England,Martyr,None,12,29,M,"clergy, secular clergy",Alexander III
+Francis Xavier,1552,1622,Spain,Confessor,Jesuit,12,3,M,"missions, Japan, India",Gregory XV
+Ignatius of Loyola,1556,1622,Spain,Confessor,Jesuit,7,31,M,"Jesuits, soldiers, retreats",Gregory XV
+Teresa of Avila,1582,1622,Spain,Doctor,Carmelite,10,15,F,"headache sufferers, Spain, chess players",Gregory XV
+John of the Cross,1591,1726,Spain,Doctor,Carmelite,12,14,M,"contemplatives, mystics, poets",Benedict XIII
+Philip Neri,1595,1622,Italy,Confessor,Oratorian,5,26,M,"Rome, humor, joy",Gregory XV
+Charles Borromeo,1584,1610,Italy,Confessor,None,11,4,M,"seminarians, bishops, catechists",Paul V
+Peter Canisius,1597,1925,Netherlands,Doctor,Jesuit,12,21,M,"Germany, press, Catholic press",Pius XI
+Robert Bellarmine,1621,1930,Italy,Doctor,Jesuit,9,17,M,"catechists, canon lawyers",Pius XI
+Francis de Sales,1622,1665,France,Doctor,None,1,24,M,"journalists, writers, deaf people",Alexander VII
+Vincent de Paul,1660,1737,France,Confessor,Vincentian,9,27,M,"charities, volunteers, Madagascar",Clement XII
+Louise de Marillac,1660,1934,France,Confessor,Daughters of Charity,3,15,F,"social workers, widows",Pius XI
+John Baptist de la Salle,1719,1900,France,Confessor,Brothers of the Christian Schools,4,7,M,"teachers, school principals",Leo XIII
+Alphonsus Liguori,1787,1839,Italy,Doctor,Redemptorist,8,1,M,"confessors, moral theologians",Gregory XVI
+John Vianney,1859,1925,France,Confessor,None,8,4,M,"parish priests, priests",Pius XI
+Bernadette Soubirous,1879,1933,France,Confessor,None,4,16,F,"sick people, poverty, France",Pius XI
+Therese of Lisieux,1897,1925,France,Doctor,Carmelite,10,1,F,"missions, France, florists",Pius XI
+Don Bosco,1888,1934,Italy,Confessor,Salesian,1,31,M,"youth, apprentices, editors",Pius XI
+John Bosco,1888,1934,Italy,Confessor,Salesian,1,31,M,"youth, apprentices, editors",Pius XI
+Damien of Molokai,1889,2009,Belgium,Confessor,Congregation of the Sacred Hearts,5,10,M,"leprosy, Hawaii, outcasts",Benedict XVI
+Peter Damian,1072,1828,Italy,Doctor,Benedictine,2,21,M,"reform of clergy",Leo XII
+Pius X,1914,1954,Italy,Confessor,None,8,21,M,"pilgrims, first communicants",Pius XII
+Maria Goretti,1902,1950,Italy,Martyr,None,7,6,F,"youth, rape victims, purity",Pius XII
+Maximilian Kolbe,1941,1982,Poland,Martyr,Franciscan,8,14,M,"drug addicts, prisoners, journalists",John Paul II
+Edith Stein,1942,1998,Germany,Martyr,Carmelite,8,9,F,"Europe, loss of parents",John Paul II
+Oscar Romero,1980,2018,El Salvador,Martyr,None,3,24,M,"poor people, El Salvador",Francis
+Faustina Kowalska,1938,2000,Poland,Confessor,Sisters of Our Lady of Mercy,10,5,F,"Divine Mercy devotion",John Paul II
+Josemaria Escriva,1975,2002,Spain,Confessor,Opus Dei,6,26,M,"Opus Dei members, personal vocation",John Paul II
+John Paul II,2005,2014,Poland,Confessor,None,10,22,M,"families, World Youth Day",Francis
+Kateri Tekakwitha,1680,2012,United States,Confessor,None,7,14,F,"environment, ecology, Native Americans",Benedict XVI
+Juan Diego,1548,2002,Mexico,Confessor,None,12,9,M,"indigenous people, Mexico",John Paul II
+Rose of Lima,1617,1671,Peru,Confessor,Dominican,8,23,F,"Latin America, florists",Clement X
+Martin de Porres,1639,1962,Peru,Confessor,Dominican,11,3,M,"interracial justice, barbers, poor",John XXIII
+Peter Claver,1654,1888,Spain,Confessor,Jesuit,9,9,M,"African Americans, Colombia, slaves",Leo XIII
+Isaac Jogues,1646,1930,France,Martyr,Jesuit,10,19,M,"United States, Canada",Pius XI
+Gianna Beretta Molla,1962,2004,Italy,Confessor,None,4,28,F,"mothers, physicians, unborn children",John Paul II
+Mother Teresa,1997,2016,Albania,Confessor,Missionaries of Charity,9,5,F,"World Youth Day, poor people",Francis
+John XXIII,1963,2014,Italy,Confessor,None,10,11,M,"councils, papal authority",Francis

@@ -1,0 +1,109 @@
+{
+  "projeto": {
+    "titulo": "Data Science dos Santos Católicos",
+    "subtitulo": "Um projeto de Inteligência Artificial aplicado ao estudo dos Santos da Igreja Católica",
+    "autor": "Mateu",
+    "ano": 2025,
+    "descricao": "Projeto de aprendizado de IA/ML que usa dados históricos dos Santos Católicos para praticar as principais técnicas de Ciência de Dados — desde coleta de dados até Machine Learning e Processamento de Linguagem Natural."
+  },
+  "estatisticas": [
+    { "valor": "77+", "label": "Santos Analisados", "icone": "✝" },
+    { "valor": "13", "label": "Gráficos Gerados", "icone": "📊" },
+    { "valor": "7", "label": "Notebooks Criados", "icone": "📓" },
+    { "valor": "20", "label": "Séculos de Dados", "icone": "⏳" }
+  ],
+  "notebooks": [
+    {
+      "numero": "00",
+      "titulo": "Setup do Projeto",
+      "descricao": "Configuração do ambiente, verificação de bibliotecas e definição de constantes globais.",
+      "tecnicas": ["Python", "Jupyter", "pathlib"],
+      "cor": "#6C5CE7"
+    },
+    {
+      "numero": "01",
+      "titulo": "Coleta de Dados",
+      "descricao": "Scraping automático da Wikipedia e uso da API para coletar dados de centenas de santos.",
+      "tecnicas": ["pd.read_html", "Wikipedia API", "Web Scraping"],
+      "cor": "#0984E3"
+    },
+    {
+      "numero": "02",
+      "titulo": "Limpeza de Dados",
+      "descricao": "Tratamento de valores nulos, criação de colunas derivadas como século de morte e anos até canonização.",
+      "tecnicas": ["pandas", "SimpleImputer", "missingno"],
+      "cor": "#00B894"
+    },
+    {
+      "numero": "03",
+      "titulo": "EDA e Visualizações",
+      "descricao": "13 gráficos que revelam padrões históricos e geográficos dos santos ao longo de 20 séculos.",
+      "tecnicas": ["seaborn", "matplotlib", "plotly"],
+      "cor": "#FDCB6E"
+    },
+    {
+      "numero": "04",
+      "titulo": "ML: Clustering",
+      "descricao": "Agrupamento não-supervisionado dos santos por similaridade usando K-Means, PCA e t-SNE.",
+      "tecnicas": ["K-Means", "PCA", "t-SNE", "Dendrograma"],
+      "cor": "#E17055"
+    },
+    {
+      "numero": "05",
+      "titulo": "ML: Classificação",
+      "descricao": "Previsão se um santo é mártir usando Random Forest com análise de importância das variáveis.",
+      "tecnicas": ["Random Forest", "ROC Curve", "SHAP", "Cross-Validation"],
+      "cor": "#D63031"
+    },
+    {
+      "numero": "06",
+      "titulo": "NLP",
+      "descricao": "Análise de textos dos santos com Word Clouds, modelagem de tópicos LDA e análise de sentimento.",
+      "tecnicas": ["TF-IDF", "LDA", "WordCloud", "TextBlob"],
+      "cor": "#A29BFE"
+    }
+  ],
+  "graficos": [
+    { "nome": "Mapa Mundial", "descricao": "Santos por país de origem", "tipo": "Coroplético" },
+    { "nome": "Top 20 Países", "descricao": "Países com mais santos canonizados", "tipo": "Bar Chart" },
+    { "nome": "Série Temporal", "descricao": "Santos canonizados por século", "tipo": "Time Series" },
+    { "nome": "Composição por Século", "descricao": "Mártires vs Confessores vs Doutores", "tipo": "Stacked Bar" },
+    { "nome": "Heatmap Histórico", "descricao": "Santos por século e continente", "tipo": "Heatmap" },
+    { "nome": "Violin Plot", "descricao": "Anos até canonização por categoria", "tipo": "Violin Plot" },
+    { "nome": "Box Plot", "descricao": "Tempo de canonização por continente", "tipo": "Box Plot" },
+    { "nome": "Scatter Plot", "descricao": "Ano de morte vs canonização", "tipo": "Scatter" },
+    { "nome": "Treemap", "descricao": "Santos por ordem religiosa", "tipo": "Treemap" },
+    { "nome": "Patronatos", "descricao": "Os 20 patronatos mais comuns", "tipo": "Bar Chart" },
+    { "nome": "Polar Chart", "descricao": "Festas dos santos por mês", "tipo": "Polar" },
+    { "nome": "Correlation Heatmap", "descricao": "Correlações entre variáveis numéricas", "tipo": "Heatmap" },
+    { "nome": "Pair Plot", "descricao": "Visão geral multivariada por categoria", "tipo": "Pair Plot" }
+  ],
+  "tecnologias": [
+    { "nome": "Python", "descricao": "Linguagem principal" },
+    { "nome": "pandas", "descricao": "Manipulação de dados" },
+    { "nome": "scikit-learn", "descricao": "Machine Learning" },
+    { "nome": "seaborn", "descricao": "Visualizações estatísticas" },
+    { "nome": "plotly", "descricao": "Gráficos interativos" },
+    { "nome": "NLTK / TextBlob", "descricao": "Processamento de texto" },
+    { "nome": "Wikipedia API", "descricao": "Coleta de dados" },
+    { "nome": "Jupyter Lab", "descricao": "Ambiente de desenvolvimento" }
+  ],
+  "insights": [
+    {
+      "titulo": "Itália lidera em Santos",
+      "descricao": "A Itália é o país com mais santos canonizados, seguida de perto por França e Espanha, refletindo a centralidade de Roma na Igreja."
+    },
+    {
+      "titulo": "Mártires são canonizados mais rápido",
+      "descricao": "A análise estatística mostra que mártires tendem a ser canonizados mais rapidamente do que confessores, possivelmente pela clareza do testemunho."
+    },
+    {
+      "titulo": "Século XIII foi o mais produtivo",
+      "descricao": "O século XIII (1200-1299) foi o mais rico em santos, com figuras como Francisco de Assis, Tomás de Aquino e Domingos de Gusmão."
+    },
+    {
+      "titulo": "Machine Learning identifica padrões",
+      "descricao": "O Random Forest conseguiu prever com boa acurácia se um santo é mártir, usando apenas dados históricos como século e país de origem."
+    }
+  ]
+}
