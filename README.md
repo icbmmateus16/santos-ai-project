@@ -14,13 +14,14 @@
 [![NLTK](https://img.shields.io/badge/NLTK-NLP-154F5B?style=flat-square)](https://nltk.org)
 [![SHAP](https://img.shields.io/badge/SHAP-Explicabilidade-FF6B6B?style=flat-square)](https://shap.readthedocs.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/icbmmateus16/santos-ai-project/main)
 
 <br/>
 
-<img src="outputs/figures/03_top20_paises.png" width="80%" />
+<img src="outputs/figures/animation_categorias.gif" width="80%" />
 
 <br/>
-<sub><i>Um dos 13 gráficos gerados — Top 20 países com mais santos canonizados</i></sub>
+<sub><i>Distribuição de santos por categoria ao longo de 20 séculos — animação gerada com Plotly + Pillow</i></sub>
 
 </div>
 
