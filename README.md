@@ -18,10 +18,10 @@
 
 <br/>
 
-<img src="outputs/figures/animation_categorias.gif" width="80%" />
+<img src="outputs/figures/animation_bar_race.gif" width="80%" />
 
 <br/>
-<sub><i>Distribuição de santos por categoria ao longo de 20 séculos — animação gerada com Plotly + Pillow</i></sub>
+<sub><i>Bar chart race — países com mais santos ao longo de 20 séculos</i></sub>
 
 </div>
 
@@ -36,6 +36,29 @@ Coleta de Dados → Limpeza → EDA → Machine Learning → NLP → Apresentaç
 ```
 
 O objetivo não é apenas analisar santos — é **praticar cada etapa do trabalho de um cientista de dados**, usando um dataset histórico real, rico em variáveis e com 20 séculos de cobertura temporal.
+
+---
+
+## 🎬 Animações
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="outputs/figures/animation_bar_race.gif" width="100%"/>
+      <br/><sub><b>Bar Chart Race</b> · corrida de países ao longo dos séculos</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="outputs/figures/animation_linha.gif" width="100%"/>
+      <br/><sub><b>Linha Acumulada</b> · crescimento por categoria século a século</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="outputs/figures/animation_categorias.gif" width="60%"/>
+      <br/><sub><b>Barras Animadas</b> · distribuição de mártires, confessores e doutores</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
